@@ -32,6 +32,13 @@ body{
 	background-color:#fff;
 	background-image:url("../img/dot-bg-1.png");
 }
+
+html { 
+	height: 2000px; 
+	margin-bottom: 1px; 
+	overflow-y: scroll;
+}
+
 .container{
 	height:100%;
 	margin-top:27px;
