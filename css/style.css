@@ -57,6 +57,7 @@ html {
 
 .contenttitle{
 	color:#000;
+	padding-top:20px;
 }
 
 
@@ -72,6 +73,8 @@ html {
 
 .contentbody{
 	width:600px;
+	margin-top:10px;
+	margin-left:20px;
 }
 
 .navbar-fixed-bottom {
